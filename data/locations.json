@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "products": [
+            {
+                "productid": 1,
+                "stock": 50
+            },
+            {
+                "productid": 2,
+                "stock": 70
+            },
+            {
+                "productid": 3,
+                "stock": 0
+            }
+        ],
+        "type": "store",
+        "loaction": {
+            "lat": 123.234,
+            "lon": 123.234
+        },
+        "name": "Convent Garden Store 1"
+    },
+    {
+        "id": 2,
+        "products": [
+            {
+                "productid": 1,
+                "stock": 50
+            },
+            {
+                "productid": 2,
+                "stock": 100
+            },
+            {
+                "productid": 3,
+                "stock": 0
+            }
+        ],
+        "type": "store",
+        "loaction": {
+            "lat": 123.234,
+            "lon": 123.234
+        },
+        "name": "Convent Garden Store 2"
+    },
+    {
+        "id": 3,
+        "products": [
+            {
+                "productid": 1,
+                "stock": 0
+            },
+            {
+                "productid": 2,
+                "stock": 0
+            },
+            {
+                "productid": 3,
+                "stock": 500
+            }
+        ],
+        "type": "warehouse",
+        "loaction": {
+            "lat": 123.234,
+            "lon": 123.234
+        },
+        "name": "Warehouse"
+    }
+]

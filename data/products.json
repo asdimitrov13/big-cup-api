@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Americano",
+        "id": 1,
+        "description": "Classic",
+        "quantity": 350,
+        "unit": "ml",
+        "price": 250
+    },
+    {
+        "name": "Flat White",
+        "id": 2,
+        "description": "Creamy",
+        "quantity": 200,
+        "unit": "ml",
+        "price": 250
+    },
+    {
+        "name": "Ethiopian Beans",
+        "id": 3,
+        "description": "Dark Roast",
+        "quantity": 250,
+        "unit": "g",
+        "price": 600
+    }
+]

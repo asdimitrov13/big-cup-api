@@ -1,0 +1,19 @@
+{
+	"basket": [{
+		"basketID": "ziPfS8qZm3liSgYwQx4YKJH6YSPPFBaz3VfjmA1K",
+		"creationDateTime": "4665053243647614",
+		"currencyCode": "GBP",
+		"product": [{
+				"productID": "3543780039042512442",
+				"quantity": 2,
+				"unitPrice": 320
+			},
+			{
+				"productID": "4643780039042512649",
+				"quantity": 1,
+				"unitPrice": 250
+			}
+		],
+		"subtotal": 890
+	}]
+}
